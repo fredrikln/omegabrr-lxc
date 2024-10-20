@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://gist.githubusercontent.com/fredrikln/1169d235a8836e973e1782175818f1e4/raw/e18f7a767133d95f44254c49cc6eda1fcb03a3cd/build.func)
+source <(curl -s https://raw.githubusercontent.com/fredrikln/omegabrr-lxc/refs/heads/main/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
